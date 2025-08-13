@@ -1,0 +1,15 @@
+
+.both-shared{
+    font-size: 28px;
+    font-family: Helvetica, "Time New Roman", sans-serif;
+}
+
+.click-btn{
+    color:white;
+    background-color:black;
+
+}
+
+.no-btn{
+    background-color: yellow;
+}
